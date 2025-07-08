@@ -5,8 +5,8 @@ require_relative "lib/omniauth/signicat_oauth2/version"
 Gem::Specification.new do |spec|
   spec.name = "omniauth-signicat_oauth2"
   spec.version = OmniAuth::SignicatOauth2::VERSION
-  spec.authors = ["bgoRelatel"]
-  spec.email = ["bgo@relatel.dk"]
+  spec.authors = ["Relatel"]
+  spec.email = ["teknik@relatel.dk"]
 
   spec.summary = "OmniAuth strategy for Signicat"
   spec.description = "OmniAuth strategy for Signicat using OAuth2."
